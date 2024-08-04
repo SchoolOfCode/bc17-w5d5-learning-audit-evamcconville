@@ -64,6 +64,11 @@ Subqueries: can’t even remember the syntax - research and try some of the sql 
 ERDs: only have basic overview  - quick research 
 
 Plan
-Reading/writing files: haven't written to a file - practice in the hackathon
-Array methods: can’t remember map, splice, find and not acquainted with loads of useful common methods - long arduous research and practice
+Reading/writing files: haven't written to a file - practice in the exersise from this week
+Array methods: can’t remember map, splice, find and not acquainted with loads of useful common methods - research and practice
 CRUD: finish this weeks hackathon myself
+
+Progress
+Finished the hackathon 
+https://github.com/evamcconville/bc17-w5-d4-hackathon-rest-api-postgres-personal
+Array methods: practiced slice in the hackathon
